@@ -2,21 +2,28 @@
 
 > Développeur junior • Python / Django • Backend • API REST • Docker
 
-Je développe des applications web avec une attention particulière portée à la fiabilité, aux tests et à la clarté du code.
+Je développe des applications avec une attention particulière portée à la fiabilité, aux tests et à la clarté du code.
 
 ---
 
 ## À propos
 
-Diplômé d'un BUT Informatique (parcours Réalisation d'applications), j'ai réalisé deux stages dans des institutions publiques : développement d'un site web interne avec Symfony et le Design System de l'État (DSFR), puis conteneurisation d'une application avec Docker et rédaction de documentation technique.
+Diplômé d'un BUT Informatique (parcours Réalisation d'applications)
+Vous trouverez ici des projets personnels qui me permettent d'explorer de nouvelles technologies, d'approfondir des concepts d'architecture et de mettre en pratique les bonnes pratiques de développement logiciel.
 
-Je considère GitHub comme un espace de pratique : j'y construis des projets personnels pour approfondir mes compétences et appliquer de bonnes pratiques de développement.
+Mes principaux centres d'intérêt sont :
 
+⚙️ Développement backend
+🏛️ Architecture logicielle
+🔒 Sécurité applicative
+🐳 Conteneurisation et déploiement
+🧪 Qualité logicielle et tests automatisés
+📈 Performance et optimisation
 ---
 
 ## Projet à la une
 
-**[suivi-demandes](https://github.com/TON-PSEUDO/suivi-demandes)** : application web de suivi de demandes (tickets)
+**[suivi-demandes](https://github.com/DepontSamuel/suivi-demandes)** : application web de suivi de demandes (tickets)
 
 - ⚙️ Django / PostgreSQL, authentification et droits d'accès par rôle
 - 🔌 API REST avec Django REST Framework
@@ -30,13 +37,13 @@ Je considère GitHub comme un espace de pratique : j'y construis des projets per
 ### Langages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,php,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,php,ts,js,html,css" />
 </p>
 
 ### Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,symfony" />
+<img src="https://skillicons.dev/icons?i=django,symfony,vue" />
 </p>
 
 Django REST Framework • JavaFX • Pygame
@@ -44,15 +51,15 @@ Django REST Framework • JavaFX • Pygame
 ### Bases de données
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres" />
+<img src="[https://skillicons.dev/icons?i=postgres](https://skillicons.dev/icons?i=mysql,postgresql)" />
 </p>
 
-SQL • JDBC
+MariaDB • PL/SQL • PL/pgSQL
 
 ### Outils
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,githubactions,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,vscode,npm,pnpm" />
 </p>
 
 Ruff • pip-audit • Gitea • WSL • CI/CD
@@ -62,6 +69,7 @@ Ruff • pip-audit • Gitea • WSL • CI/CD
 ## Ce qui m'intéresse
 
 - le développement backend et les API REST ;
+- la conception d'architectures robustes ;
 - la qualité logicielle et les tests automatisés ;
 - les pipelines CI/CD et la conteneurisation ;
 - l'accessibilité numérique et les services publics numériques ;
@@ -77,11 +85,11 @@ J'approfondis Django, la sécurité applicative et le déploiement (HTTPS, mise 
 
 ## Recherche
 
-Je recherche un poste de développeur / analyste-développeur d'applications. **Disponible immédiatement.**
+Je recherche un poste de développeur. **Disponible immédiatement.**
 
 ---
 
 ## Contact
 
-- 📧 ton-adresse@exemple.fr
+- 📧 depont.samuel@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/TON-LIEN)
