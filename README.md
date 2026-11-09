@@ -59,7 +59,7 @@ MariaDB • PL/SQL • PL/pgSQL
 ### Outils
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,vscode,npm,pnpm" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,vscode,npm" />
 </p>
 
 Ruff • pip-audit • Gitea • WSL • CI/CD
@@ -92,4 +92,4 @@ Je recherche un poste de développeur. **Disponible immédiatement.**
 ## Contact
 
 - 📧 depont.samuel@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/TON-LIEN)
+- 💼 [LinkedIn](https://www.linkedin.com/in/samuel-depont-140773259/)
