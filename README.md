@@ -8,7 +8,7 @@ Je développe des applications avec une attention particulière portée à la fi
 
 ## À propos
 
-Diplômé d'un BUT Informatique (parcours Réalisation d'applications)
+Diplômé d'un BUT Informatique (parcours Réalisation d'applications).
 Vous trouverez ici des projets personnels qui me permettent d'explorer de nouvelles technologies, d'approfondir des concepts d'architecture et de mettre en pratique les bonnes pratiques de développement logiciel.
 
 Mes principaux centres d'intérêt sont :
@@ -68,11 +68,11 @@ Ruff • pip-audit • Gitea • WSL • CI/CD
 
 ## Ce qui m'intéresse
 
-- le développement backend et les API REST ;
-- la conception d'architectures robustes ;
-- la qualité logicielle et les tests automatisés ;
-- les pipelines CI/CD et la conteneurisation ;
-- l'accessibilité numérique et les services publics numériques ;
+- le développement backend et les API REST;
+- la conception d'architectures robustes;
+- la qualité logicielle et les tests automatisés;
+- les pipelines CI/CD et la conteneurisation;
+- l'accessibilité numérique et les services publics numériques;
 - la documentation technique et le travail en équipe.
 
 ---
