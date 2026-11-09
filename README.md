@@ -13,12 +13,12 @@ Vous trouverez ici des projets personnels qui me permettent d'explorer de nouvel
 
 Mes principaux centres d'intérêt sont :
 
-⚙️ Développement backend
-🏛️ Architecture logicielle
-🔒 Sécurité applicative
-🐳 Conteneurisation et déploiement
-🧪 Qualité logicielle et tests automatisés
-📈 Performance et optimisation
+- ⚙️ Développement backend
+- 🏛️ Architecture logicielle
+- 🔒 Sécurité applicative
+- 🐳 Conteneurisation et déploiement
+- 🧪 Qualité logicielle et tests automatisés
+- 📈 Performance et optimisation
 ---
 
 ## Projet à la une
@@ -51,7 +51,7 @@ Django REST Framework • JavaFX • Pygame
 ### Bases de données
 
 <p>
-<img src="[https://skillicons.dev/icons?i=postgres](https://skillicons.dev/icons?i=mysql,postgresql)" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
 MariaDB • PL/SQL • PL/pgSQL
