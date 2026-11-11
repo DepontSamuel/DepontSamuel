@@ -68,11 +68,11 @@ Ruff • pip-audit • Gitea • WSL • CI/CD
 
 ## Ce qui m'intéresse
 
-- le développement backend et les API REST;
-- la conception d'architectures robustes;
-- la qualité logicielle et les tests automatisés;
-- les pipelines CI/CD et la conteneurisation;
-- l'accessibilité numérique et les services publics numériques;
+- le développement backend et les API REST ;
+- la conception d'architectures robustes ;
+- la qualité logicielle et les tests automatisés ;
+- les pipelines CI/CD et la conteneurisation ;
+- l'accessibilité numérique et les services publics numériques ;
 - la documentation technique et le travail en équipe.
 
 ---
